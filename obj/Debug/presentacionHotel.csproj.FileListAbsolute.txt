@@ -1,0 +1,40 @@
+C:\TAP 4°B\Hotel\bin\Debug\Hotel.exe.config
+C:\TAP 4°B\Hotel\bin\Debug\Hotel.exe
+C:\TAP 4°B\Hotel\bin\Debug\Hotel.pdb
+C:\TAP 4°B\Hotel\bin\Debug\Entidades.dll
+C:\TAP 4°B\Hotel\bin\Debug\Manejador.dll
+C:\TAP 4°B\Hotel\bin\Debug\Entidades.pdb
+C:\TAP 4°B\Hotel\bin\Debug\Manejador.pdb
+C:\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.AssemblyReference.cache
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmHabitaciones.resources
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.GenerateResource.cache
+C:\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.CoreCompileInputs.cache
+C:\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.CopyComplete
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.exe
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.pdb
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmMenu.resources
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmClientes.resources
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmDatosCliente.resources
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmReservaciones.resources
+C:\TAP 4°B\Hotel\obj\Debug\Hotel.frmDatosH.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Hotel.exe
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Entidades.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Manejador.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Entidades.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\bin\Debug\Manejador.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.AssemblyReference.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmHabitaciones.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmClientes.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmDatosH.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmDatosCliente.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmMenu.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.frmReservaciones.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.GenerateResource.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\presentacionHotel.csproj.CoreCompileInputs.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\presenta.B354A677.Up2Date
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.exe
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\obj\Debug\Hotel.pdb

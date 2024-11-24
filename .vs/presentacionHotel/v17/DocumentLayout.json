@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB254A9-5277-432A-9BB2-F0E5F3EBFE23}|..\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\josem\\downloads\\hotel\\accesodatos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|c:\\users\\josem\\downloads\\hotel\\hotel\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmdatoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmdatoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmdatosh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmdatosh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA2DB31-C20F-43A0-83A7-9BEDA264E3C0}|presentacionHotel.csproj|solutionrelative:frmhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4196DED5-1927-4FCD-99FD-6DE7884C02E9}|Manejador\\Manejador.csproj|C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\manejador\\manejadorhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4196DED5-1927-4FCD-99FD-6DE7884C02E9}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\AccesoDatos\\Funciones.cs",
+              "RelativeDocumentMoniker": "..\\AccesoDatos\\Funciones.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\AccesoDatos\\Funciones.cs",
+              "RelativeToolTip": "..\\AccesoDatos\\Funciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:17:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmClientes.cs",
+              "RelativeDocumentMoniker": "frmClientes.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:52:19.06Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:51:55.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReservaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmReservaciones.cs",
+              "RelativeDocumentMoniker": "frmReservaciones.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmReservaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmReservaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:50:25.905Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDatosH.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmDatosH.cs",
+              "RelativeDocumentMoniker": "frmDatosH.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmDatosH.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmDatosH.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:50:10.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDatosCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmDatosCliente.cs",
+              "RelativeDocumentMoniker": "frmDatosCliente.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmDatosCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmDatosCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:50:07.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmHabitacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmHabitacion.cs",
+              "RelativeDocumentMoniker": "frmHabitacion.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmHabitacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Juli\u00E1n\\Downloads\\BACKUP 1\\mm folders\\TAP 4\u00B0B\\Hotel\\frmHabitacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:54:12.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmReservaciones.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmReservaciones.cs",
+              "RelativeDocumentMoniker": "frmReservaciones.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmReservaciones.cs",
+              "RelativeToolTip": "frmReservaciones.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:52:06.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmHabitacion.cs",
+              "RelativeDocumentMoniker": "frmHabitacion.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\frmHabitacion.cs",
+              "RelativeToolTip": "frmHabitacion.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAhwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:54:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manejadorHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\Manejador\\manejadorHabitaciones.cs",
+              "RelativeDocumentMoniker": "Manejador\\manejadorHabitaciones.cs",
+              "ToolTip": "C:\\Users\\josem\\Downloads\\Hotel\\Hotel\\Manejador\\manejadorHabitaciones.cs",
+              "RelativeToolTip": "Manejador\\manejadorHabitaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:58:06.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

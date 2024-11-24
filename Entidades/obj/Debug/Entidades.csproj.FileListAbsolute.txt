@@ -1,0 +1,12 @@
+C:\TAP 4°B\Hotel\Entidades\bin\Debug\Entidades.dll
+C:\TAP 4°B\Hotel\Entidades\bin\Debug\Entidades.pdb
+C:\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.dll
+C:\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Entidades\obj\Debug\Entidades.pdb

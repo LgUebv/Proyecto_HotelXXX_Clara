@@ -1,0 +1,18 @@
+C:\TAP 4°B\Hotel\Manejador\bin\Debug\Manejador.dll
+C:\TAP 4°B\Hotel\Manejador\bin\Debug\Manejador.pdb
+C:\TAP 4°B\Hotel\Manejador\bin\Debug\Entidades.dll
+C:\TAP 4°B\Hotel\Manejador\bin\Debug\Entidades.pdb
+C:\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.CopyComplete
+C:\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.dll
+C:\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\bin\Debug\Manejador.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\bin\Debug\Manejador.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\bin\Debug\Entidades.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\bin\Debug\Entidades.pdb
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.csproj.Up2Date
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.dll
+C:\Users\Julián\Downloads\BACKUP 1\mm folders\TAP 4°B\Hotel\Manejador\obj\Debug\Manejador.pdb
